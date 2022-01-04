@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fga2cKTrKLT5ceo/ONr54wN4617KoMVjZgeRXSAtoHV13CTg9sX+xp+MdwP/9i6uARkP5MFGGlfHW6uCtaA7eA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\UNAB\\source\\repos\\AppPlatzi\\AppPlatzi\\AppPlatzi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UNAB\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
